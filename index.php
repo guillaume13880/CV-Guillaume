@@ -37,7 +37,7 @@
         <!-- aos css lien-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <!--lien style css-->
-        <link rel="stylesheet" href="./css/index.css"/>
+        <link rel="stylesheet" href="./css/style.css/>
     </head>
     <body>
 
