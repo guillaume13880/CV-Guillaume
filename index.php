@@ -37,7 +37,7 @@
         <!-- aos css lien-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <!--lien style css-->
-        <link rel="stylesheet" href="./css/style.css/>
+        <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
 
@@ -82,8 +82,8 @@
             <div class="content" >
                 <h3 data-aos="fade-up">bonjour, je suis Guillaume Laurent</h3>
                 <span data-aos="fade-up">Web designer & developper</span>
-                <p data-aos="fade-up">lorem, ipsum dolor sit amet consectetur adipiscing elit </p>
-                <a data-aos="fade-up" href="#about" class="btn">about me</a>
+                <p data-aos="fade-up">Développer web FullStack Junior </p>
+                <a data-aos="fade-up" href="#about" class="btn">Sur moi</a>
             </div>
         </section>
         <section class="about" id="about">
@@ -95,17 +95,17 @@
                 optio, eaque rerum! Provident similique accusantium nemo autem.
                 </p>
                 <div class="bio">
-                    <h3 data-aos="zoom-in"><span>name : </span> guillaume laurent</h3>
+                    <h3 data-aos="zoom-in"><span>nom : </span>LAURENT guillaume</h3>
                     <h3 data-aos="zoom-in"><span>email : </span> guillaume.laurent13880@gmail.com</h3>
                     <h3 data-aos="zoom-in"><span>address : </span> Bouche du rhone, VELAUX</h3>
-                    <h3 data-aos="zoom-in"><span>phone : </span> 06.70.70.70.70</h3>
-                    <h3 data-aos="zoom-in"><span>age : </span> 27 ans</h3>
+                    <h3 data-aos="zoom-in"><span>telephone : </span> 06.71.61.59.79</h3>
+                    <h3 data-aos="zoom-in"><span>age : </span> 28 ans</h3>
                     <h3 data-aos="zoom-in"><span>experience : </span> +2 ans</h3>
                 </div>
                 <a href="#" class="btn" data-aos="fade-up">download CV</a>
             </div>
             <div class="skills" data-aos="fade-up">
-                <h1 class="heading"><span>skills</span></h1>
+                <h1 class="heading"><span>Compétences</span></h1>
                 <div class="progress">
                     <div class="bar" data-aos="fade-left"><h3><span>HTML</span><span>95%</span></h3></div>
                     <div class="bar" data-aos="fade-right"><h3><span>CSS</span><span>80%</span></h3></div>
@@ -119,45 +119,41 @@
                     <div class="box-container">
                         <h3 class="title" data-aos="fade-right">education</h3>
                         <div class="box" data-aos="fade-right">
-                            <span>(2020 - 2022)</span>
-                            <h3>web designer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <span>(2022 - 2023)</span>
+                            <h3>---</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
                         </div>
                         <div class="box" data-aos="fade-right">
                             <span>(2021 - 2022)</span>
-                            <h3>web developper</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <h3>developper web FullStack</h3>
+                            <p>Formation de 1 ans, a distance avec la plateflorme STUDI</p>
                         </div>
                         <div class="box" data-aos="fade-right">
-                            <span>(2021 - 2022)</span>
-                            <h3>graphique designer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <span>(2014)</span>
+                            <h3>BAC PRO MEI</h3>
+                            <p>BAC professionnel Maintenance des equipements industriels</p>
                         </div>
+                        
                     </div>
 
                     <div class="box-container">
                         <h3 class="title" data-aos="fade-left">experience</h3>
                         <div class="box" data-aos="fade-left">
-                            <span>(2020 - 2022)</span>
-                            <h3>front-end developper</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <span>(2022 - 2023)</span>
+                            <h3>---</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing </p>
                         </div>
                         <div class="box" data-aos="fade-left">
                             <span>(2021 - 2022)</span>
-                            <h3>back-end developper</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <h3>Développement web</h3>
+                            <p>Réalisation d'exercices est apprentissage sur la plateforme</p>
                         </div>
                         <div class="box" data-aos="fade-left">
-                            <span>(2021 - 2022)</span>
-                            <h3>full-stack developper</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum</p>
+                            <span>(2014 - 2021)</span>
+                            <h3>Technicen de maintenance</h3>
+                            <p>Technicien machines tournantes chez PACA POMPES SERVICES</p>
                         </div>
+                        
                     </div>
                 </div>
             </div>
