@@ -89,10 +89,7 @@
         <section class="about" id="about">
             <h1 class="heading" data-aos="fade-up"><span>biography</span></h1>
             <div class="biography" >
-                <p data-aos="fade-up">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-                optio, eaque rerum! Provident similique accusantium nemo autem.
+                <p data-aos="fade-up">Autonome est enthousiaste, dans le cadre d'une reconversion professionnel, mes premières expériences m'ont permis de renforcer mes acquies et d'appréhender les différents outils et techniques de Développement. En quête de nouveaux challenges, je souhaite rejoindre une organisation à laquelle je pourrais apporter mon dynamisme. 
                 </p>
                 <div class="bio">
                     <h3 data-aos="zoom-in"><span>nom : </span>LAURENT guillaume</h3>
@@ -252,18 +249,18 @@
             <h1 class="heading" data-aos="fade-up"><span>contacter moi</span></h1>
             <form action="" method="POST">
                 <div class="flex">
-                    <input data-aos="fade-right" type="text" name="name" placeholder="entrer votre nom" class="box" required>
-                    <input data-aos="fade-left" type="email" name="email" placeholder="entrer votre email" class="box" required>
+                    <input data-aos="fade-right" type="text" name="name" placeholder="Entrer votre nom" class="box" required>
+                    <input data-aos="fade-left" type="email" name="email" placeholder="Entrer votre email" class="box" required>
                 </div>
-                <input data-aos="fade-up" type="number" min="0" name="number" placeholder="entrer votre telephone" class="box" required>
-                <textarea data-aos="fade-up" name="message" class="box" required placeholder="entrer votre message" cols="30" rows="10"></textarea>
+                <input data-aos="fade-up" type="number" min="0" name="number" placeholder="Entrer votre telephone" class="box" required>
+                <textarea data-aos="fade-up" name="message" class="box" required placeholder="Entrer votre message" cols="30" rows="10"></textarea>
                 <input data-aos="zoom-in" type="submit" value="Envoyer le message" name="send" class="btn">
             </form>
             <div class="box-container">
                 <div class="box" data-aos="zoom-in">
                     <i class="fas fa-phone"></i>
                     <h3>telephone</h3>
-                    <p>06.70.70.70.70</p>
+                    <p>06.71.61.59.79</p>
                 </div>
                 <div class="box" data-aos="zoom-in">
                     <i class="fas fa-envelope"></i>
