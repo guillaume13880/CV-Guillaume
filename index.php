@@ -59,8 +59,8 @@
             <div id="menu-btn" class="fas fa-bars"></div>
             <a href="#home" class="logo">Portfolio</a>
             <nav class="navbar">
-                <a href="#home" class="active">home</a>
-                <a href="#about">about</a>
+                <a href="#home" class="active">Acceuil</a>
+                <a href="#about">à propos</a>
                 <a href="#services">services</a>
                 <a href="#portfolio">portfolio</a>
                 <a href="#contact">contact</a>
@@ -76,11 +76,11 @@
         </header>
         <section class="home" id="home">
             <div class="image" data-aos="fade-right">
-                <img src="./images/portrait.jpg" alt="">
+                <img src="./images/imgdev.PNG" alt="">
             </div>
 
             <div class="content" >
-                <h3 data-aos="fade-up">bonjour, je suis Guillaume L</h3>
+                <h3 data-aos="fade-up">bonjour, je suis Guillaume Laurent</h3>
                 <span data-aos="fade-up">Web designer & developper</span>
                 <p data-aos="fade-up">lorem, ipsum dolor sit amet consectetur adipiscing elit </p>
                 <a data-aos="fade-up" href="#about" class="btn">about me</a>
