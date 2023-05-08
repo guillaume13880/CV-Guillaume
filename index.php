@@ -37,7 +37,7 @@
         <!-- aos css lien-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <!--lien style css-->
-        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="./css/style1.css">
     </head>
     <body>
 
@@ -71,7 +71,7 @@
                 <a href="#" class="fab fa-twitter"></a>
                 <a href="#" class="fab fa-instagram"></a>
                 <a href="#" class="fab fa-linkedin"></a>
-                <a href="#" class="fab fa-github"></a>
+                <a href="https://github.com/guillaume13880/CV-Guillaume.git" class="fab fa-github"></a>
             </div>
         </header>
         <section class="home" id="home">
@@ -207,37 +207,37 @@
             <h1 class="heading" data-aos="fade-up"><span>portfolio</span></h1>
             <div class="box-container">
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/background1.jpg" alt="">
+                    <img src="./images/logo.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/background2.jpg" alt="">
+                    <img src="./images/logo2.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/background3.jpg" alt="">
+                    <img src="./images/logo3.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/gymnase4.jpg" alt="">
+                    <img src="./images/logo4.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/gymnase5.jpg" alt="">
+                    <img src="./images/logo7.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <img src="./images/gymnase6.jpg" alt="">
+                    <img src="./images/logo6.jpg" alt="">
                     <h3>web developpement</h3>
                     <span>(2020 - 2021)</span>
                 </div>
