@@ -1,0 +1,22 @@
+# Le nom de l'application. Doit être unique dans un projet.
+name: CVGL
+
+# The type of the application to build
+type: 'php:8.0'
+
+# Indicate to use Composer 2 (leave out if you want Composer 1)
+# See how without Composer: https://docs.platform.sh/guides/wordpress/vanilla.html
+dependencies:
+    php: 
+        composer/composer: '^2'
+
+# The size of the persistent disk of the application (in MB)
+disk: 2048
+# La configuration de votre application lorsqu'elle est exposée sur le Web.
+web:
+    locations:
+        "/":
+            # Le répertoire public de l'application, par rapport à sa racine.
+            root: "web"
+            # Le script du contrôleur frontal auquel envoyer des requêtes non statiques.
+            passthru: "/index.php"
