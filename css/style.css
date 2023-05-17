@@ -286,6 +286,10 @@ section {
   width: 70%;
 }
 
+.about .skills .progress .bar:nth-child(5) h3 {
+  width: 80%;
+}
+
 .about .edu-exp .row {
   display: flex;
   flex-wrap: wrap;

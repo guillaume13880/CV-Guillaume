@@ -37,7 +37,7 @@
         <!-- aos css lien-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <!--lien style css-->
-        <link rel="stylesheet" href="./css/style1.css">
+        <link rel="stylesheet" href="./css/style.css">
     </head>
     <body>
 
@@ -99,7 +99,7 @@
                     <h3 data-aos="zoom-in"><span>age : </span> 28 ans</h3>
                     <h3 data-aos="zoom-in"><span>experience : </span> +2 ans</h3>
                 </div>
-                <a href="#" class="btn" data-aos="fade-up">download CV</a>
+                <a href="#" class="btn" data-aos="fade-up">Télécharger CV</a>
             </div>
             <div class="skills" data-aos="fade-up">
                 <h1 class="heading"><span>Compétences</span></h1>
@@ -108,6 +108,7 @@
                     <div class="bar" data-aos="fade-right"><h3><span>CSS</span><span>80%</span></h3></div>
                     <div class="bar" data-aos="fade-left"><h3><span>JavaScript</span><span>65%</span></h3></div>
                     <div class="bar" data-aos="fade-right"><h3><span>PHP</span><span>70%</span></h3></div>
+                    <div class="bar" data-aos="fade-left"><h3><span>Symfony</span><span>80%</span></h3></div>
                 </div>
             </div>
             <div class="edu-exp">
@@ -123,7 +124,7 @@
                         <div class="box" data-aos="fade-right">
                             <span>(2021 - 2022)</span>
                             <h3>developper web FullStack</h3>
-                            <p>Formation de 1 ans, a distance avec la plateflorme STUDI</p>
+                            <p>Formation de 1 ans, a distance avec le groupe STUDI</p>
                         </div>
                         <div class="box" data-aos="fade-right">
                             <span>(2014)</span>
@@ -143,7 +144,7 @@
                         <div class="box" data-aos="fade-left">
                             <span>(2021 - 2022)</span>
                             <h3>Développement web</h3>
-                            <p>Réalisation d'exercices est apprentissage sur la plateforme</p>
+                            <p>Réalisation d'exercices est apprentissage sur la plateforme STUDI</p>
                         </div>
                         <div class="box" data-aos="fade-left">
                             <span>(2014 - 2021)</span>
@@ -195,8 +196,8 @@
                 </div>
 
                 <div class="box" data-aos="zoom-in">
-                    <i class="fab fa-wordpress"></i>
-                    <h3>wordpress</h3>
+                    <i class="fa-brands fa-symfony"></i>
+                    <h3>Symfony</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
                     molestiae</p>
                 </div>
